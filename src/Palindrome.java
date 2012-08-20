@@ -1,3 +1,5 @@
+/* this program simply checks if the word is a Palindrome! */
+
 
 public class Palindrome {
 	
